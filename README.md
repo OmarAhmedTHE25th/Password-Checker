@@ -20,7 +20,7 @@ PasswordChecker provides two main functionalities:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/OmarAhmedTHE25th/Password-Strength-Checker.git
+    git clone https://github.com/OmarAhmedTHE25th/Password-Checker.git
     cd PasswordChecker
     ```
 
